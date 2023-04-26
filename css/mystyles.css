@@ -1,0 +1,56 @@
+ul{
+    font-size: 20px;
+}
+
+.header{
+    height: 100px;
+    background-color: blanchedalmond;
+    color: black
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+    right: 5px;
+    left: 5px;
+}
+
+.footer{
+    height: 25px;
+    font-size: 10px;
+    padding-top: 15px;
+    background-color: pink;
+    color: black;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    position: fixed;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a: hover {
+    background-color: #ccc;
+}
+
+nav a {
+    float: left;
+    color:aliceblue;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    text-emphasis-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
